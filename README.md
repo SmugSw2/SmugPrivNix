@@ -11,5 +11,8 @@ Uses Hyprland 0.48.1 for the sake of plugins ( will update soon when I feel like
 
 
 # To do list
-* Rice
-* Stable audio
+* decide on a theme
+* color scheme
+* icons
+* hyprland plugins
+
